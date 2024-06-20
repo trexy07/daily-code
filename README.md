@@ -29,7 +29,7 @@ projects from https://www.dailycodingproblem.com/
 - [ ] 26: remove the kth last element from linked list
 - [ ] 28: justify text exactly by adding spaces
 - [ ] 30: water in 2D height graph
-- [ ]
+- [ ] 36: find the second largest node in a binary tree
 
 ## easy
 
